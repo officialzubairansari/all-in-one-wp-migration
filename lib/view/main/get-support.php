@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (C) 2014-2018 ServMask Inc.
+ * Copyright (C) 2014-2018 arcoticsolutions Inc.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -24,4 +24,4 @@
  */
 ?>
 
-<a href="https://servmask.com/help" target="_blank"><?php _e( 'Get Support', AI1WM_PLUGIN_NAME ); ?></a>
+<a href="https://arcoticsolutions.com/help" target="_blank"><?php _e( 'Get Support', AI1WM_PLUGIN_NAME ); ?></a>

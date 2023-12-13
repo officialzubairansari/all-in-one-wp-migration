@@ -54,11 +54,11 @@
 		<a
 			href="https://twitter.com/share"
 			class="twitter-share-button"
-			data-url="https://servmask.com"
+			data-url="https://arcoticsolutions.com"
 			data-text="Check this epic WordPress Migration plugin"
-			data-via="servmask"
-			data-related="servmask"
-			data-hashtags="servmask"
+			data-via="arcoticsolutions"
+			data-related="arcoticsolutions"
+			data-hashtags="arcoticsolutions"
 			>
 			<?php _e( 'Tweet', AI1WM_PLUGIN_NAME ); ?>
 		</a>
@@ -66,7 +66,7 @@
 	<span>
 		<div
 			class="fb-like ai1wm-top-negative-four"
-			data-href="https://www.facebook.com/servmaskproduct"
+			data-href="https://www.facebook.com/arcoticsolutions"
 			data-layout="button_count"
 			data-action="recommend"
 			data-show-faces="true"

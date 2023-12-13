@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (C) 2014-2018 ServMask Inc.
+ * Copyright (C) 2014-2018 arcoticsolutions Inc.
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -33,7 +33,7 @@
 			AI1WM_PLUGIN_NAME
 		);
 		?>
-		<a href="https://servmask.com/products/multisite-extension" target="_blank" class="ai1wm-label">
+		<a href="https://arcoticsolutions.com/products/multisite-extension" target="_blank" class="ai1wm-label">
 			<i class="ai1wm-icon-notification"></i>
 			<?php _e( 'Get multisite', AI1WM_PLUGIN_NAME ); ?>
 		</a>
