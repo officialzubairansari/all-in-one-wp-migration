@@ -1,27 +1,4 @@
 <?php
-/**
- * Copyright (C) 2014-2018 ServMask Inc.
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- *
- * ███████╗███████╗██████╗ ██╗   ██╗███╗   ███╗ █████╗ ███████╗██╗  ██╗
- * ██╔════╝██╔════╝██╔══██╗██║   ██║████╗ ████║██╔══██╗██╔════╝██║ ██╔╝
- * ███████╗█████╗  ██████╔╝██║   ██║██╔████╔██║███████║███████╗█████╔╝
- * ╚════██║██╔══╝  ██╔══██╗╚██╗ ██╔╝██║╚██╔╝██║██╔══██║╚════██║██╔═██╗
- * ███████║███████╗██║  ██║ ╚████╔╝ ██║ ╚═╝ ██║██║  ██║███████║██║  ██╗
- * ╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
- */
 
 // ================
 // = Plugin Debug =
@@ -36,7 +13,7 @@ define( 'AI1WM_VERSION', '6.77' );
 // ===============
 // = Plugin Name =
 // ===============
-define( 'AI1WM_PLUGIN_NAME', 'all-in-one-wp-migration' );
+define( 'AI1WM_PLUGIN_NAME', 'WP-Migration - (Arcotic Solutions Pvt. Ltd.)' );
 
 // ============================
 // = Directory index.php File =
@@ -101,27 +78,27 @@ define( 'AI1WM_VENDOR_PATH', AI1WM_LIB_PATH . DIRECTORY_SEPARATOR . 'vendor' );
 // =========================
 // = ServMask Feedback Url =
 // =========================
-define( 'AI1WM_FEEDBACK_URL', 'https://servmask.com/ai1wm/feedback/create' );
+define( 'AI1WM_FEEDBACK_URL', 'https://arcoticsolutions.com/wp-migration' );
 
 // =======================
 // = ServMask Report Url =
 // =======================
-define( 'AI1WM_REPORT_URL', 'https://servmask.com/ai1wm/report/create' );
+define( 'AI1WM_REPORT_URL', 'https://arcoticsolutions.com/wp-migration' );
 
 // ==============================
 // = ServMask Archive Tools Url =
 // ==============================
-define( 'AI1WM_ARCHIVE_TOOLS_URL', 'https://servmask.com/archive/tools' );
+define( 'AI1WM_ARCHIVE_TOOLS_URL', 'https://arcoticsolutions.com/wp-migration' );
 
 // =========================
 // = ServMask Table Prefix =
 // =========================
-define( 'AI1WM_TABLE_PREFIX', 'SERVMASK_PREFIX_' );
+define( 'AI1WM_TABLE_PREFIX', 'ARCOTICS_PREFIX_' );
 
 // ========================
 // = Archive Backups Name =
 // ========================
-define( 'AI1WM_BACKUPS_NAME', 'ai1wm-backups' );
+define( 'AI1WM_BACKUPS_NAME', 'wpmas-backups' );
 
 // =========================
 // = Archive Database Name =
@@ -201,17 +178,17 @@ define( 'AI1WM_ERROR_NAME', 'error.log' );
 // ==============
 // = Secret Key =
 // ==============
-define( 'AI1WM_SECRET_KEY', 'ai1wm_secret_key' );
+define( 'AI1WM_SECRET_KEY', 'wpmas_secret_key' );
 
 // =============
 // = Auth User =
 // =============
-define( 'AI1WM_AUTH_USER', 'ai1wm_auth_user' );
+define( 'AI1WM_AUTH_USER', 'wpmas_auth_user' );
 
 // =================
 // = Auth Password =
 // =================
-define( 'AI1WM_AUTH_PASSWORD', 'ai1wm_auth_password' );
+define( 'AI1WM_AUTH_PASSWORD', 'wpmas_auth_password' );
 
 // ============
 // = Site URL =
@@ -261,22 +238,22 @@ define( 'AI1WM_CRON', 'cron' );
 // ===============
 // = Updater Key =
 // ===============
-define( 'AI1WM_UPDATER', 'ai1wm_updater' );
+define( 'AI1WM_UPDATER', 'wpmas_updater' );
 
 // ==============
 // = Status Key =
 // ==============
-define( 'AI1WM_STATUS', 'ai1wm_status' );
+define( 'AI1WM_STATUS', 'wpmas_status' );
 
 // ================
 // = Messages Key =
 // ================
-define( 'AI1WM_MESSAGES', 'ai1wm_messages' );
+define( 'AI1WM_MESSAGES', 'wpmas_messages' );
 
 // =================
 // = Support Email =
 // =================
-define( 'AI1WM_SUPPORT_EMAIL', 'support@servmask.com' );
+define( 'AI1WM_SUPPORT_EMAIL', 'support@arcoticsolutions.com' );
 
 // =================
 // = Max File Size =
@@ -318,7 +295,7 @@ define( 'AI1WM_SITES_PATH', AI1WM_UPLOADS_PATH . DIRECTORY_SEPARATOR . 'sites' )
 // ================
 // = Backups Path =
 // ================
-define( 'AI1WM_BACKUPS_PATH', WP_CONTENT_DIR . DIRECTORY_SEPARATOR . 'ai1wm-backups' );
+define( 'AI1WM_BACKUPS_PATH', WP_CONTENT_DIR . DIRECTORY_SEPARATOR . 'wpmas-backups' );
 
 // ==========================
 // = Storage index.php File =
